@@ -23,7 +23,6 @@ Başarısız ise, başarısız ödeme tablosuna ekleniyor Başarısız ödeme ta
 
 ## Akış şeması
 
-Akıi şeması aşağıdadır.
 
 <p align="center"><img src="/public/akis.png" alt="akis_semasi"></p>
 
